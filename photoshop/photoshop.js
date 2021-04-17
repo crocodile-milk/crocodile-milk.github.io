@@ -25,13 +25,13 @@ img1 = loadImage('http://crocodile-milk.github.io/images/loaf.png');
 
 img2 = loadImage('http://crocodile-milk.github.io/images/beans.png');
 
-img3 = loadImage('https://crocodile-milk.github.io/images/sparkle.png');
+img3 = loadImage('https://crocodile-milk.github.io/images/sparkle.gif');
 
 img4 = loadImage('https://crocodile-milk.github.io/images/bread.gif');
 
 img5 = loadImage('https://crocodile-milk.github.io/images/mrsparkle.png');
 
-img6 = loadImage('https://crocodile-milk.github.io/images/sheep.png');
+img6 = loadImage('https://crocodile-milk.github.io/images/sheep.gif');
 
 img7 = loadImage('https://crocodile-milk.github.io/images/alpaca.gif');
 
@@ -98,21 +98,21 @@ image(img, mouseX-20, mouseY-20, 100, 100);
 
 //    stroke(50, 50, 0, 20);
 //    line(mouseX, mouseY, pmouseX, pmouseY);
-  image(img5, mouseX-20, mouseY-20, 342, 227);
+  image(img5, mouseX-20, mouseY-20, 406, 449);
 
     
   } else if (toolChoice == '7') {
     
 //    stroke(50, 50, 0, 20);
 //    line(mouseX, mouseY, pmouseX, pmouseY);
-  image(img6, mouseX-20, mouseY-20, 203, 225);
+  image(img6, mouseX-20, mouseY-20, 292, 292);
 
 
   } else if (toolChoice == '8') {
     
 //    stroke(50, 50, 0, 20);
 //    line(mouseX, mouseY, pmouseX, pmouseY);
-  image(img7, mouseX-10, mouseY-10, 292, 292);
+  image(img7, mouseX-10, mouseY-10, 480, 480);
 
 
   } else if (toolChoice == '9') {
