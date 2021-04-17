@@ -25,15 +25,15 @@ img1 = loadImage('http://crocodile-milk.github.io/images/loaf.png');
 
 img2 = loadImage('http://crocodile-milk.github.io/images/beans.png');
 
-img3 = loadImage('https://crocodile-milk.github.io/images/sparkle.gif');
+img3 = loadImage('https://crocodile-milk.github.io/images/sparkle.png');
 
 img4 = loadImage('https://crocodile-milk.github.io/images/bread.gif');
 
 img5 = loadImage('https://crocodile-milk.github.io/images/mrsparkle.png');
 
-img6 = loadImage('https://crocodile-milk.github.io/images/sheep.gif');
+img6 = loadImage('https://crocodile-milk.github.io/images/sheep.png');
 
-img7 = loadImage('https://crocodile-milk.github.io/images/alpaca.png');
+img7 = loadImage('https://crocodile-milk.github.io/images/alpaca.gif');
 
 img8 = loadImage('https://crocodile-milk.github.io/images/purin.gif');
 
